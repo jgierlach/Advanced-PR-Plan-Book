@@ -2,20 +2,12 @@
   <div class>
     <v-navigation-drawer v-model="drawer" app>
       <v-list dense>
-        <v-list-item>
+        <v-list-item :to="link.url" v-for="link in links" :key="link.name">
           <v-list-item-action>
-            <v-icon>mdi-home</v-icon>
+            <v-icon>home</v-icon>
           </v-list-item-action>
           <v-list-item-content>
-            <v-list-item-title>Home</v-list-item-title>
-          </v-list-item-content>
-        </v-list-item>
-        <v-list-item>
-          <v-list-item-action>
-            <v-icon>mdi-contact-mail</v-icon>
-          </v-list-item-action>
-          <v-list-item-content>
-            <v-list-item-title>Contact</v-list-item-title>
+            <v-list-item-title>{{ link.name }}</v-list-item-title>
           </v-list-item-content>
         </v-list-item>
       </v-list>
@@ -34,7 +26,12 @@ export default {
     source: String
   },
   data: () => ({
-    drawer: null
+    drawer: null,
+    links: [
+      {name: 'home', url: '/', icon: 'home'},
+      {name: 'about', url: '/about', icon: 'home'},
+      {name: 'plop', url: '/plop', icon: 'home'}
+    ]
   })
 }
 </script>

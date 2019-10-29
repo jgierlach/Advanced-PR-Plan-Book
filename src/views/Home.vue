@@ -1,41 +1,18 @@
 <template>
-  <div class="home">
-    <v-content>
-      <v-container class="fill-height" fluid>
-        <v-row align="center" justify="center">
-          <v-col class="text-center">
-            <v-tooltip left>
-              <template v-slot:activator="{on}">
-                <v-btn :href="source" icon large target="_blank" v-on="on">
-                  <v-icon large>mdi-code-tags</v-icon>
-                </v-btn>
-              </template>
-              <span>Source</span>
-            </v-tooltip>
-
-            <v-tooltip right>
-              <template v-slot:activator="{on}">
-                <v-btn
-                  icon
-                  large
-                  href="https://codepen.io/johnjleider/pen/zgxeLQ"
-                  target="_blank"
-                  v-on="on"
-                >
-                  <v-icon large>mdi-codepen</v-icon>
-                </v-btn>
-              </template>
-              <span>Codepen</span>
-            </v-tooltip>
-          </v-col>
-        </v-row>
-      </v-container>
-    </v-content>
-  </div>
+  <v-row align="center" justify="center">
+    <v-img
+      src="../assets/advanced_pr_home_page.png"
+      lazy-src="../assets/advanced_pr_home_page.png"
+      aspect-ratio="1"
+      class="grey lighten-2"
+      max-width="100%"
+      max-height="100%"
+    ></v-img>
+  </v-row>
 </template>
-
 <script>
-export default {
-  name: 'home'
-}
+export default {}
 </script>
+
+<style scoped>
+</style>
