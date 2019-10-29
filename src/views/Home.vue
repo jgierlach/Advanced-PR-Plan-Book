@@ -10,6 +10,3 @@
     ></v-img>
   </v-row>
 </template>
-<script>
-export default {}
-</script>
