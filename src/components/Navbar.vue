@@ -31,6 +31,11 @@ export default {
       {name: 'Cover', url: '/', icon: 'home'},
       {name: 'Problem Definition', url: '/problem-defintion', icon: 'home'},
       {
+        name: 'Planning And Programming',
+        url: '/planning-and-programming',
+        icon: 'home'
+      },
+      {
         name: 'Taking Action And Communicating',
         url: '/taking-action-and-communicating',
         icon: 'home'
