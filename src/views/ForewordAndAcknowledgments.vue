@@ -1,4 +1,5 @@
 <template>
+<transition name="fade" appear>
   <div class="container">
     <v-row align="center" justify="center">
       <v-img
@@ -18,7 +19,7 @@
       <strong>PR Evolve</strong>.
     </p>
 
-    <p>The team of PR practitioners is made up of Project Manager Carlee McCardel, Content Creator Aubrey Wilson, and Web Developer Jan-Edward Gierlach.</p>
+    <p>The team of PR practitioners is made up of Project Manager <strong>Carlee McCardel</strong>, Content Creator <strong>Aubrey Wilson</strong>, and Web Developer <strong>Jan-Edward Gierlach</strong>.</p>
 
     <p>It has been a privilege to work on this campaign for Hope College Campus Ministries.</p>
 
@@ -26,6 +27,7 @@
 
     <p>This experience could not have happened without the guidance and knowledge given by our Advisor Dr Lauren Hearit and Trygve Johnson and the Campus Ministries Team.</p>
   </div>
+</transition>
 </template>
 
 <style scoped>
