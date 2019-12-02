@@ -3,9 +3,6 @@
     <v-navigation-drawer v-model="drawer" app>
       <v-list dense>
         <v-list-item :to="link.url" v-for="link in links" :key="link.name">
-          <!-- <v-list-item-action>
-            <v-icon>home</v-icon>
-          </v-list-item-action>-->
           <v-list-item-content>
             <v-list-item-title>{{ link.name }}</v-list-item-title>
           </v-list-item-content>
