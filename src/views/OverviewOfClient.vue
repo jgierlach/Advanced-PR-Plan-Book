@@ -36,9 +36,9 @@
 
       <p>The perfect storm has been created with individual groups needing a place to gather. The era of pop worship music had just been created and students really resonated with the worship.</p>
 
-      <p>Campus Ministries transitioned into 2.0: Settlement Season (2005). Trygve Johnson was brought on board and wanted to make Campus Ministries truly apart of Hope College. He wanted to make this revolution that was happening with Campus Ministries into an institution. The culture Campus Ministries was creating Trgve wanted to see be carried out. The language and symbols that were being used Campus Ministries really wanted to be shaped into their culture.</p>
+      <p>We have transitioned to <strong>Campus Ministries 2.0:</strong> Settlement Season (2005). Trygve Johnson was brought on board and wanted to make Campus Ministries truly apart of Hope College. He wanted to make this revolution that was happening with Campus Ministries into an institution. The culture Campus Ministries was creating Trgve wanted to see be carried out. The language and symbols that were being used Campus Ministries really wanted to be shaped into their culture.</p>
 
-      <p>Campus Ministries is now in 3.0: The Outreach Season. Campus Ministries wants to reach higher education not just at the Hope Community. Campus Ministries wants to continue to be leaders and do new things. Campus Ministries is able to serve more people and communities with its newly built Van Andel Huys Der Hope Campus Ministries building.</p>
+      <p>We're now in <strong>Campus Ministries 3.0:</strong> The Outreach Season. Campus Ministries wants to reach higher education not just at the Hope Community. Campus Ministries wants to continue to be leaders and do new things. Campus Ministries is able to serve more people and communities with its newly built Van Andel Huys Der Hope Campus Ministries building.</p>
 
       <v-img
         src="../assets/ministry-building.jpg"
