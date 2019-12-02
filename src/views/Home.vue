@@ -1,4 +1,5 @@
 <template>
+<transition name="fade" appear>
   <v-row align="center" justify="center">
     <v-img
       src="../assets/advanced_pr_home_page.png"
@@ -9,4 +10,5 @@
       max-height="100%"
     ></v-img>
   </v-row>
+</transition>
 </template>
