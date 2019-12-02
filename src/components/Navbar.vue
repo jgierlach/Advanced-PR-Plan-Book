@@ -29,22 +29,71 @@ export default {
     drawer: null,
     links: [
       {name: 'Cover', url: '/', icon: 'home'},
-      {name: 'Problem Definition', url: '/problem-defintion', icon: 'home'},
       {
-        name: 'Planning And Programming',
-        url: '/planning-and-programming',
+        name: 'Foreword And Acknowledgments',
+        url: '/foreword-and-acknowledgments',
         icon: 'home'
       },
       {
-        name: 'Taking Action And Communicating',
-        url: '/taking-action-and-communicating',
+        name: 'Executive Summary',
+        url: '/executive-summary',
         icon: 'home'
       },
       {
-        name: 'Evaluating The Program',
-        url: '/evaluating-the-program',
+        name: 'Situation Anaysis Of Client And Problem Statement',
+        url: '/situation-analysis',
         icon: 'home'
-      }
+      },
+      {
+        name: 'Overview Of The Client',
+        url: '/overview-of-client',
+        icon: 'home'
+      },
+      {
+        name: 'Analysis Of The Problem',
+        url: '/analysis-of-the-problem',
+        icon: 'home'
+      },
+      {
+        name: 'Profile Of Target Publics',
+        url: '/profile-of-target-publics',
+        icon: 'home'
+      },
+      {
+        name: 'Campaign Design And Implementation',
+        url: '/campaign-design-and-implementation',
+        icon: 'home'
+      },
+      {
+        name: 'Planning Process',
+        url: '/planning-process',
+        icon: 'home'
+      },
+      {
+        name: 'Goals And Objectives',
+        url: '/goals-and-objectives',
+        icon: 'home'
+      },
+      {
+        name: 'Schedule And Budget',
+        url: '/schedule-and-budget',
+        icon: 'home'
+      },
+      {
+        name: 'Evaluation Plan',
+        url: '/evaluation-plan',
+        icon: 'home'
+      },
+      {
+        name: 'Conclusion',
+        url: '/conclusion',
+        icon: 'home'
+      },
+      {
+        name: 'Appendix',
+        url: '/appendix',
+        icon: 'home'
+      },
     ]
   })
 }

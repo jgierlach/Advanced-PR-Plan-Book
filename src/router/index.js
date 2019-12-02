@@ -1,10 +1,19 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
-import ProblemDefinition from '../views/ProblemDefinition.vue'
-import PlanningAndProgramming from '../views/PlanningAndProgramming.vue'
-import TakingActionAndCommunicating from '../views/TakingActionAndCommunicating.vue'
-import EvaluatingTheProgram from '../views/EvaluatingTheProgram.vue'
+import ForewordAndAcknowledgments from '../views/ForewordAndAcknowledgments.vue'
+import ExecutiveSummary from '../views/ExecutiveSummary.vue'
+import SituationAnalysis from '../views/SituationAnalysis.vue'
+import OverviewOfClient from '../views/OverviewOfClient.vue'
+import AnalysisOfProblem from '../views/AnalysisOfProblem.vue'
+import ProfileOfTargetPublics from '../views/ProfileOfTargetPublics.vue'
+import CampaignDesignAndImplementation from '../views/CampaignDesignAndImplementation.vue'
+import PlanningProcess from '../views/PlanningProcess.vue'
+import GoalsAndObjectives from '../views/GoalsAndObjectives.vue'
+import ScheduleAndBudget from '../views/ScheduleAndBudget.vue'
+import EvaluationPlan from '../views/EvaluationPlan.vue'
+import Conclusion from '../views/Conclusion.vue'
+import Appendix from '../views/Appendix.vue'
 
 Vue.use(VueRouter)
 
@@ -15,34 +24,70 @@ const routes = [
     component: Home
   },
   {
-    path: '/problem-defintion',
-    name: 'Problem Definition',
-    component: ProblemDefinition
+    path: '/foreword-and-acknowledgments',
+    name: 'Foreword And Acknowledgments',
+    component: ForewordAndAcknowledgments
   },
   {
-    path: '/planning-and-programming',
-    name: 'Planning And Programming',
-    component: PlanningAndProgramming
+    path: '/executive-summary',
+    name: 'Executive Summary',
+    component: ExecutiveSummary
   },
   {
-    path: '/taking-action-and-communicating',
-    name: 'Taking Action And Communicating',
-    component: TakingActionAndCommunicating
+    path: '/situation-analysis',
+    name: 'Situation Anaysis Of Client And Problem Statement',
+    component: SituationAnalysis
   },
   {
-    path: '/evaluating-the-program',
-    name: 'Evaluating The Program',
-    component: EvaluatingTheProgram
+    path: '/overview-of-client',
+    name: 'Overview Of The Client',
+    component: OverviewOfClient
   },
-  // {
-  //   path: '/about',
-  //   name: 'about',
-  //   // route level code-splitting
-  //   // this generates a separate chunk (about.[hash].js) for this route
-  //   // which is lazy-loaded when the route is visited.
-  //   component: () =>
-  //     import(/* webpackChunkName: "about" */ '../views/About.vue')
-  // }
+  {
+    path: '/analysis-of-the-problem',
+    name: 'Analysis Of The Problem',
+    component: AnalysisOfProblem
+  },
+  {
+    path: '/profile-of-target-publics',
+    name: 'Profile Of Target Publics',
+    component: ProfileOfTargetPublics
+  },
+  {
+    path: '/campaign-design-and-implementation',
+    name: 'Campaign Design And Implementation',
+    component: CampaignDesignAndImplementation
+  },
+  {
+    path: '/planning-process',
+    name: 'Planning Process',
+    component: PlanningProcess
+  },
+  {
+    path: '/goals-and-objectives',
+    name: 'Goals And Objectives',
+    component: GoalsAndObjectives
+  },
+  {
+    path: '/schedule-and-budget',
+    name: 'Schedule And Budget',
+    component: ScheduleAndBudget
+  },
+  {
+    path: '/evaluation-plan',
+    name: 'Evaluation Plan',
+    component: EvaluationPlan
+  },
+  {
+    path: '/conclusion',
+    name: 'Conclusion',
+    component: Conclusion
+  },
+  {
+    path: '/appendix',
+    name: 'Appendix',
+    component: Appendix
+  },
 ]
 
 const router = new VueRouter({
