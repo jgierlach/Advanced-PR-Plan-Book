@@ -23,12 +23,65 @@
         <strong>Tactics:</strong>
       </p>
 
-      <!-- <ul>
-      <li>Increase a more aesthetically pleasing feed through strategized posts and a color palette</li>
-      <li>Post verses/quotes/testimonies/promotions/campus introductions regularly (1x per day)</li>
-      <li>Make social media outlets more accessible through promotion via Instagram</li>
-      <li>Collaborate with various students, faculty, administration, alumni, churches, and area pastors to raise social media engagement</li>
-      </ul>-->
+      <p>
+        <strong>#1:</strong> Increase a more aesthetically pleasing feed through
+        strategized posts and a color palette
+      </p>
+
+      <p>
+        All posts will resemble a color palette comprised of deep navy blue,
+        white, a number of light tans and grays. Majority of the most up and
+        coming accounts on Instagram, Facebook, Twitter, Apple Music, Youtube,
+        and Podcast have strong brand recognition. An aesthetic pleasing feed
+        that coordinates with a color palette will uniform the content which
+        will increase follower attraction and retention.
+      </p>
+
+      <p>
+        <strong>#2:</strong> Post verses/quotes/testimonies/promotions/campus
+        introductions regularly (1x per day)
+      </p>
+
+      <p>
+        Publishing and promoting engaging content such as verses will increase
+        student knowledge of one of Campus Ministries’ biggest passion, the
+        Bible. Publishing and promoting quotes from chapel and gathering
+        services provides students a sliver of everything Campus Ministries has
+        to offer at the simple touch of a finger. Publishing and promoting of
+        testimonies offers insight into who has reaped the benefits of Campus
+        Ministries. Publishing and promoting various promotions such as Men’s
+        Night Out or Immersion trips increases the possible reach of students.
+        Publishing and promoting campus introductions such as chaplains,
+        students, coaches, or faculty and staff matches faces with the name of
+        Campus Ministries.
+      </p>
+
+      <p>
+        <strong>#3:</strong> Make social media outlets more accessible through
+        promotion via Instagram
+      </p>
+
+      <p>
+        Channeling all of the Campus Ministries content through one platform
+        establishes a clear accessible way for students to use it as a resource.
+        Each subgroup of Campus Ministries that has a modified, branded, active
+        social media should be promoted in the bio of the Instagram.
+      </p>
+
+      <p>
+        <strong>#4:</strong> Collaborate with various students, faculty,
+        administration, alumni, churches, and area pastors to raise social media
+        engagement
+      </p>
+
+      <p>
+        Collaboration includes but is not limited to students, faculty,
+        administration, alumni, churches, and area pastors posting in some sort
+        of support of Campus Ministries. Increased support from pivotal faces of
+        all corners of the community increases traction for the Campus
+        Ministries brand. Public support encourages students and prospective
+        students to engage.
+      </p>
 
       <br />
 
