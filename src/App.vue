@@ -20,12 +20,16 @@ export default {
     Navbar,
     Footer
   },
-  data: () => ({}),
+  data: () => ({})
 }
 </script>
 
 <style>
 p {
+  font-size: 1.5rem;
+}
+
+li {
   font-size: 1.5rem;
 }
 

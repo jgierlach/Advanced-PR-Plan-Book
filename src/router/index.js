@@ -87,7 +87,7 @@ const routes = [
     path: '/appendix',
     name: 'Appendix',
     component: Appendix
-  },
+  }
 ]
 
 const router = new VueRouter({

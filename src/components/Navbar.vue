@@ -12,7 +12,7 @@
 
     <v-app-bar app class="grey darken-4" dark>
       <v-app-bar-nav-icon @click.stop="drawer = !drawer"></v-app-bar-nav-icon>
-      <v-toolbar-title>{{this.$route.name}}</v-toolbar-title>
+      <v-toolbar-title>{{ this.$route.name }}</v-toolbar-title>
     </v-app-bar>
   </div>
 </template>
@@ -80,7 +80,7 @@ export default {
         name: 'Evaluation Plan',
         url: '/evaluation-plan',
         icon: 'home'
-      },
+      }
       // {
       //   name: 'Conclusion',
       //   url: '/conclusion',
