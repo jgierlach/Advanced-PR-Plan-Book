@@ -1,5 +1,5 @@
 <template>
-  <v-app>
+  <v-app dark>
     <Navbar />
     <v-content>
       <v-container>
@@ -20,9 +20,7 @@ export default {
     Navbar,
     Footer
   },
-  data: () => ({
-    //
-  })
+  data: () => ({}),
 }
 </script>
 

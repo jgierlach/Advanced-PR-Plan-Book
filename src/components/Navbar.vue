@@ -1,5 +1,5 @@
 <template>
-  <div class>
+  <div>
     <v-navigation-drawer v-model="drawer" app>
       <v-list dense>
         <v-list-item :to="link.url" v-for="link in links" :key="link.name">
@@ -10,7 +10,7 @@
       </v-list>
     </v-navigation-drawer>
 
-    <v-app-bar app color="primary" dark>
+    <v-app-bar app class="grey darken-4" dark>
       <v-app-bar-nav-icon @click.stop="drawer = !drawer"></v-app-bar-nav-icon>
       <v-toolbar-title>{{this.$route.name}}</v-toolbar-title>
     </v-app-bar>
@@ -36,11 +36,11 @@ export default {
         url: '/executive-summary',
         icon: 'home'
       },
-      {
-        name: 'Situation Anaysis Of Client And Problem Statement',
-        url: '/situation-analysis',
-        icon: 'home'
-      },
+      // {
+      //   name: 'Situation Anaysis Of Client And Problem Statement',
+      //   url: '/situation-analysis',
+      //   icon: 'home'
+      // },
       {
         name: 'Overview Of The Client',
         url: '/overview-of-client',
@@ -61,16 +61,16 @@ export default {
         url: '/campaign-design-and-implementation',
         icon: 'home'
       },
-      {
-        name: 'Planning Process',
-        url: '/planning-process',
-        icon: 'home'
-      },
-      {
-        name: 'Goals And Objectives',
-        url: '/goals-and-objectives',
-        icon: 'home'
-      },
+      // {
+      //   name: 'Planning Process',
+      //   url: '/planning-process',
+      //   icon: 'home'
+      // },
+      // {
+      //   name: 'Goals And Objectives',
+      //   url: '/goals-and-objectives',
+      //   icon: 'home'
+      // },
       {
         name: 'Schedule And Budget',
         url: '/schedule-and-budget',
@@ -81,16 +81,16 @@ export default {
         url: '/evaluation-plan',
         icon: 'home'
       },
-      {
-        name: 'Conclusion',
-        url: '/conclusion',
-        icon: 'home'
-      },
-      {
-        name: 'Appendix',
-        url: '/appendix',
-        icon: 'home'
-      },
+      // {
+      //   name: 'Conclusion',
+      //   url: '/conclusion',
+      //   icon: 'home'
+      // },
+      // {
+      //   name: 'Appendix',
+      //   url: '/appendix',
+      //   icon: 'home'
+      // },
     ]
   })
 }
