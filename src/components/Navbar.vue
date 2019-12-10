@@ -36,11 +36,11 @@ export default {
         url: '/executive-summary',
         icon: 'home'
       },
-      // {
-      //   name: 'Situation Anaysis Of Client And Problem Statement',
-      //   url: '/situation-analysis',
-      //   icon: 'home'
-      // },
+      {
+        name: 'Situation Anaysis Of Client And Problem Statement',
+        url: '/situation-analysis',
+        icon: 'home'
+      },
       {
         name: 'Overview Of The Client',
         url: '/overview-of-client',
@@ -61,16 +61,16 @@ export default {
         url: '/campaign-design-and-implementation',
         icon: 'home'
       },
-      // {
-      //   name: 'Planning Process',
-      //   url: '/planning-process',
-      //   icon: 'home'
-      // },
-      // {
-      //   name: 'Goals And Objectives',
-      //   url: '/goals-and-objectives',
-      //   icon: 'home'
-      // },
+      {
+        name: 'Planning Process',
+        url: '/planning-process',
+        icon: 'home'
+      },
+      {
+        name: 'Goals And Objectives',
+        url: '/goals-and-objectives',
+        icon: 'home'
+      },
       {
         name: 'Schedule And Budget',
         url: '/schedule-and-budget',
@@ -80,17 +80,17 @@ export default {
         name: 'Evaluation Plan',
         url: '/evaluation-plan',
         icon: 'home'
+      },
+      {
+        name: 'Conclusion',
+        url: '/conclusion',
+        icon: 'home'
+      },
+      {
+        name: 'Appendix',
+        url: '/appendix',
+        icon: 'home'
       }
-      // {
-      //   name: 'Conclusion',
-      //   url: '/conclusion',
-      //   icon: 'home'
-      // },
-      // {
-      //   name: 'Appendix',
-      //   url: '/appendix',
-      //   icon: 'home'
-      // },
     ]
   })
 }

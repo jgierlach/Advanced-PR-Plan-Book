@@ -41,11 +41,23 @@
 
       <p>
         This experience could not have happened without the guidance and
-        knowledge given by our Advisor Dr Lauren Hearit and Trygve Johnson and
-        the Campus Ministries Team.
+        knowledge given by our Advisor Dr. Lauren Hearit and Rev. Dr. Trygve
+        Johnson and the Campus Ministries Team.
       </p>
     </div>
   </transition>
+  <!-- <transition name="fade" appear>
+    <v-row align="center" justify="center">
+      <v-img
+        src="../assets/foreword.png"
+        lazy-src="../assets/foreword.png"
+        aspect-ratio="1"
+        class="grey lighten-2"
+        max-width="100%"
+        max-height="100%"
+      ></v-img>
+    </v-row>
+  </transition>-->
 </template>
 
 <style scoped>

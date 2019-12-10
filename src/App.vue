@@ -29,6 +29,14 @@ p {
   font-size: 1.5rem;
 }
 
+h1 {
+  font-size: 2.3rem;
+}
+
+h3 {
+  font-size: 2rem;
+}
+
 li {
   font-size: 1.5rem;
 }

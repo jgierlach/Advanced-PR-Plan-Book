@@ -1,6 +1,10 @@
 <template>
   <transition name="fade" appear>
     <div class="container">
+      <h1 class="text-center">Executive Summary</h1>
+
+      <br />
+
       <p>
         We recognize that Campus Ministries has a large presence and reach on
         campus. As a whole, they play a necessary role in the success of
@@ -25,17 +29,17 @@
       </p>
 
       <p>
-        Our Focus is to work both internal and external factors to create a five
-        star program. This plan will need to be carried out for the next four
-        years in order for it to embed itself fully on Hope’s Campus.
+        Our focus is to work on both internal and external factors to create a
+        five star program. This plan will need to be carried out for the next
+        four years in order for it to embed itself fully on Hope’s Campus.
       </p>
 
       <p>
         Our first goal is to increase the follower count on all Campus
-        Ministries Social Platforms. A lack of knowledge can sometimes be the
-        cause of lack of community engagement, so by reaching as many people as
-        we can we will be increasing the chances of campus ministries being used
-        more frequently.
+        Ministries social media platforms. A lack of knowledge can sometimes be
+        the cause of lack of community engagement, so by reaching as many people
+        as we can we will be increasing the chances of campus ministries social
+        media and resources being used more frequently.
       </p>
 
       <p>
@@ -56,27 +60,27 @@
       </p>
 
       <p>
-        Lastly, we want to help Campus Ministries establish their future. We
-        will do this by shifting the perception of the success of Hope College
-        Campus Ministries to something other colleges Campus Ministries can
-        aspire to be. Colleges all across the country will model their own
-        programs after Hope College’s Campus Ministries.
+        Last, we want to help Campus Ministries establish its future. We will do
+        this by enhancing perceptions of the success of Hope College Campus
+        Ministries. By better promoting Campus Ministries, we hope to establish
+        the Hope College Campus Ministries program as something other colleges
+        look to for leadership and guidance. Colleges all across the country
+        will model their own programs after Hope College’s Campus Ministries.
       </p>
 
       <p>
-        Secondly, to establish Trygve Johnsons brand. By working on Trygve’s
-        brand it will have a positive effect not only for Trygve but for Hope
-        College Campus Ministries. Trygve’s brand will be an asset of Campus
-        Ministries but not entirely Campus Ministries. Doing so, his personal
-        followers will migrate to the Campus Ministries brand and vice versa.
+        Second, we want to better establish a brand for Trygve Johnson. By
+        working on Trygve’s brand, it has a positive effect not only for Trygve
+        but for Hope College Campus Ministries. The development of Trygve’s
+        brand is an asset to Campus Ministries. Doing so, his personal followers
+        will migrate to the Campus Ministries brand and vice versa.
       </p>
 
       <p>
-        Our strategy is rooted in discussion with Campus Ministries, students,
-        and Dr. Hearit. We are motivated by the enthusiasm Campus Ministries
-        presents with their desire to grow and develop their department. By
-        creating these strategies we will be able to help campus ministries
-        become a five star, golden standard.
+        Our strategy is rooted in discussion with Campus Ministries, current
+        Hope College students, and Dr. Hearit. By utilizing these strategies we
+        propose, we will be able to help Campus Ministries become a gold
+        standard for collegiate campus ministry programs.
       </p>
     </div>
   </transition>

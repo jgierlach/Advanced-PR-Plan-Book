@@ -1,6 +1,9 @@
 <template>
   <transition name="fade" appear>
     <div class="container">
+      <h1 class="text-center">Overview Of The Client</h1>
+      <br />
+
       <h1>History</h1>
 
       <p>
@@ -30,7 +33,7 @@
       </p>
 
       <p>
-        In 1993, the school endowed a Dean of Chapel. Hope currently has the
+        In 1993 the school endowed a Dean of Chapel. Hope currently has the
         third Dean of Chapel, Trgve Johnson.
       </p>
 
@@ -46,9 +49,9 @@
       <br />
 
       <p>
-        The perfect storm has been created with individual groups needing a
-        place to gather. The era of pop worship music had just been created and
-        students really resonated with the worship.
+        The perfect storm was created with individual groups needing a place to
+        gather. The era of pop worship music had just been created and students
+        really resonated with that style of worship.
       </p>
 
       <v-img
@@ -63,22 +66,19 @@
       <br />
 
       <p>
-        We have transitioned to
-        <strong>Campus Ministries 2.0:</strong> Settlement Season (2005). Trygve
-        Johnson was brought on board and wanted to make Campus Ministries truly
-        apart of Hope College. He wanted to make this revolution that was
-        happening with Campus Ministries into an institution. The culture Campus
-        Ministries was creating Trgve wanted to see be carried out. The language
-        and symbols that were being used Campus Ministries really wanted to be
-        shaped into their culture.
+        Then, Campus Ministries transitioned into 2.0: Settlement Season (2005).
+        Rev. Dr. Trygve Johnson was brought on board and wanted to make Campus
+        Ministries truly apart of Hope College. He wanted to make this
+        revolution that was happening with Campus Ministries into an
+        institution.
       </p>
 
       <p>
-        We're now in <strong>Campus Ministries 3.0:</strong> The Outreach
-        Season. Campus Ministries wants to reach higher education not just at
-        the Hope Community. Campus Ministries wants to continue to be leaders
-        and do new things. Campus Ministries is able to serve more people and
-        communities with its newly built Van Andel Huys Der Hope Campus
+        Campus Ministries is now in stage 3.0: The Outreach Season. Campus
+        Ministries wants to impact higher education as a whole, not just the
+        Hope Community. Campus Ministries wants to continue to be leaders and do
+        new things. Campus Ministries is able to serve more people and
+        communities with its newly built Van Andel Huys der Hope Campus
         Ministries building.
       </p>
 
@@ -95,8 +95,8 @@
 
       <p>
         This space will equip the students to be the leaders for the next
-        generation. Campus Ministries wants to continue to create and produce
-        new resources and experiences for its audience.
+        generation. Campus Ministries want to continue to create and produce new
+        resources and experiences for its audience.
       </p>
     </div>
   </transition>
