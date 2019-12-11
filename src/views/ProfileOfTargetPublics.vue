@@ -10,12 +10,15 @@
         audience.
       </p>
 
+      <br/>
+
       <v-row align="center" justify="center">
         <v-img
           src="../assets/venn-diagram.png"
           lazy-src="../assets/venn-diagram.png"
           aspect-ratio="1"
-          class="grey lighten-2"
+          class="white"
+          contain
           max-width="50%"
           max-height="50%"
         ></v-img>
