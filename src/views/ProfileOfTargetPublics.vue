@@ -10,7 +10,7 @@
         audience.
       </p>
 
-      <br/>
+      <br />
 
       <v-row align="center" justify="center">
         <v-img

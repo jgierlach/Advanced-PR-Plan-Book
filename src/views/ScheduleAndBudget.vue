@@ -20,7 +20,7 @@
         </v-col>
       </v-row>
 
-      <br/>
+      <br />
 
       <p>
         The budget has three main aspects. The first focuses on the campus
