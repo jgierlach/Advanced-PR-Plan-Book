@@ -82,6 +82,11 @@ export default {
         icon: 'home'
       },
       {
+        name: 'Tactical Experience',
+        url: '/tactical-experience',
+        icon: 'home'
+      },
+      {
         name: 'Conclusion',
         url: '/conclusion',
         icon: 'home'

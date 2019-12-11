@@ -14,6 +14,7 @@ import ScheduleAndBudget from '../views/ScheduleAndBudget.vue'
 import EvaluationPlan from '../views/EvaluationPlan.vue'
 import Conclusion from '../views/Conclusion.vue'
 import Appendix from '../views/Appendix.vue'
+import TacticalExperience from '../views/TacticalExperience.vue'
 
 Vue.use(VueRouter)
 
@@ -77,6 +78,11 @@ const routes = [
     path: '/evaluation-plan',
     name: 'Evaluation Plan',
     component: EvaluationPlan
+  },
+  {
+    path: '/tactical-experience',
+    name: 'Tactical Experience',
+    component: TacticalExperience
   },
   {
     path: '/conclusion',
