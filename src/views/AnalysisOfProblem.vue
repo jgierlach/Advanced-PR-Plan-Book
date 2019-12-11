@@ -26,14 +26,14 @@
         >
       </p>
 
-        <v-img
-          src="../assets/pie-chart.png"
-          lazy-src="../assets/pie-chart.png"
-          aspect-ratio="1"
-          height="50%"
-          width="50%"
-          contain
-        ></v-img>
+      <v-img
+        src="../assets/pie-chart.png"
+        lazy-src="../assets/pie-chart.png"
+        aspect-ratio="1"
+        height="50%"
+        width="50%"
+        contain
+      ></v-img>
 
       <p>
         <strong>2)</strong> Hope College has seen a decrease in attendance from

@@ -1,6 +1,9 @@
 <template>
   <transition name="fade" appear>
     <div class="container">
+      <h1 class="text-center">Foreword and Acknowledgments</h1>
+      <br />
+
       <v-row align="center" justify="center">
         <v-img
           src="../assets/pr_evolve.png"
