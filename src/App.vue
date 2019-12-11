@@ -37,6 +37,10 @@ h3 {
   font-size: 2rem;
 }
 
+h4 {
+  font-size: 1.65rem;
+}
+
 li {
   font-size: 1.5rem;
 }
