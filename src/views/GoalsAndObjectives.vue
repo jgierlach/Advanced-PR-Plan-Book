@@ -12,7 +12,7 @@
         Hope College in a positive way.
       </p>
 
-      <br/>
+      <br />
 
       <h3>Strategy:</h3>
       <p>
@@ -28,7 +28,7 @@
         wanting to be apart of the gold standard that is Campus Ministries.
       </p>
 
-      <br/>
+      <br />
 
       <h3>Objective 1:</h3>
       <p>
@@ -42,12 +42,14 @@
         increased, as will demographic of followers.
       </p>
 
-      <br/>
+      <br />
 
       <h3>Tactics:</h3>
       <p>
-        <strong>#1 Increase a more aesthetically pleasing feed through
-        strategized posts and a color palette</strong>
+        <strong
+          >#1 Increase a more aesthetically pleasing feed through strategized
+          posts and a color palette</strong
+        >
       </p>
 
       <p>
@@ -59,11 +61,13 @@
         will increase follower attraction and retention.
       </p>
 
-      <br/>
+      <br />
 
       <p>
-        <strong>#2 Post verses/quotes/testimonies/promotions/campus
-        introductions regularly (1x per day)</strong>
+        <strong
+          >#2 Post verses/quotes/testimonies/promotions/campus introductions
+          regularly (1x per day)</strong
+        >
       </p>
 
       <p>
@@ -80,11 +84,13 @@
         Campus Ministries.
       </p>
 
-      <br/>
+      <br />
 
       <p>
-        <strong>#3 Make social media outlets more accessible through
-        promotion via Instagram</strong>
+        <strong
+          >#3 Make social media outlets more accessible through promotion via
+          Instagram</strong
+        >
       </p>
 
       <p>
@@ -94,12 +100,14 @@
         social media should be promoted in the bio of the Instagram.
       </p>
 
-      <br/>
+      <br />
 
       <p>
-        <strong>#4 Collaborate with various students, faculty,
-        administration, alumni, churches, and area pastors to raise social media
-        engagement</strong>
+        <strong
+          >#4 Collaborate with various students, faculty, administration,
+          alumni, churches, and area pastors to raise social media
+          engagement</strong
+        >
       </p>
 
       <p>
@@ -111,7 +119,7 @@
         students to engage.
       </p>
 
-      <br/>
+      <br />
 
       <h3>Objective 2:</h3>
       <p>
@@ -123,13 +131,15 @@
         media.
       </p>
 
-      <br/>
+      <br />
 
       <h3>Tactics:</h3>
 
       <p>
-        <strong>#1 Campus Ministries staff attend the annual tour guide
-        training</strong>
+        <strong
+          >#1 Campus Ministries staff attend the annual tour guide
+          training</strong
+        >
       </p>
 
       <p>
@@ -148,11 +158,12 @@
         sell them on Hope.
       </p>
 
-      <br/>
+      <br />
 
       <p>
-        <strong>#2 Increase prospective student engagement on social
-        media</strong>
+        <strong
+          >#2 Increase prospective student engagement on social media</strong
+        >
       </p>
 
       <p>
@@ -167,7 +178,7 @@
         prospective student.
       </p>
 
-      <br/>
+      <br />
 
       <h3>Objective 3:</h3>
       <p>
@@ -175,14 +186,16 @@
         by 20% May 1 2020
       </p>
 
-      <br/>
+      <br />
 
       <h3>Tactics:</h3>
 
       <p>
-        <strong>#1 Hire a Communications Specialist to be the liaison
-        between the vision of Campus Ministries staff and Public Affairs and
-        Marketing (PAM)</strong>
+        <strong
+          >#1 Hire a Communications Specialist to be the liaison between the
+          vision of Campus Ministries staff and Public Affairs and Marketing
+          (PAM)</strong
+        >
       </p>
 
       <p>
@@ -198,11 +211,13 @@
         a successful program.
       </p>
 
-      <br/>
+      <br />
 
       <p>
-        <strong>#2 By May 1, 2030 host a Campus Ministries Leadership
-        conference</strong>
+        <strong
+          >#2 By May 1, 2030 host a Campus Ministries Leadership
+          conference</strong
+        >
       </p>
 
       <p>
@@ -217,11 +232,13 @@
         for the program.
       </p>
 
-      <br/>
+      <br />
 
       <p>
-        <strong>#3 By May 1 2040 merge Western Seminary underneath
-        Campus Ministries</strong>
+        <strong
+          >#3 By May 1 2040 merge Western Seminary underneath Campus
+          Ministries</strong
+        >
       </p>
 
       <p>
@@ -234,19 +251,21 @@
         and campaign we have created.
       </p>
 
-      <br/>
+      <br />
 
       <h3>Objective 4:</h3>
       <p>To increase by 5% Trygve’s brand recognition by August 31, 2021</p>
 
-      <br/>
+      <br />
 
       <h3>Tactics:</h3>
 
       <p>
-        <strong>#1 The Communication Specialist will manage and run all
-        of Trygve’s social media accounts to best leverage his personal brand to
-        promote Campus Ministries</strong>
+        <strong
+          >#1 The Communication Specialist will manage and run all of Trygve’s
+          social media accounts to best leverage his personal brand to promote
+          Campus Ministries</strong
+        >
       </p>
 
       <p>
@@ -261,11 +280,13 @@
         benefit of the other.
       </p>
 
-      <br/>
+      <br />
 
       <p>
-        <strong>#2 Promote his personal and Campus Ministries accounts
-        via visual aid during speaking engagements on and off campus</strong>
+        <strong
+          >#2 Promote his personal and Campus Ministries accounts via visual aid
+          during speaking engagements on and off campus</strong
+        >
       </p>
 
       <p>
@@ -279,7 +300,7 @@
         great way to increase Trygve’s brand recognition.
       </p>
 
-      <br/>
+      <br />
 
       <p><strong>#3 Create/update Trygve’s personal website</strong></p>
       <p>

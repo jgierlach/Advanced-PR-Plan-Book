@@ -39,7 +39,7 @@
         </li>
       </ul>
 
-      <br/>
+      <br />
 
       <p>
         Campus Ministries was founded on providing a community when community
@@ -49,7 +49,7 @@
         is:
       </p>
 
-      <br/>
+      <br />
 
       <ol>
         <li>

@@ -4,6 +4,24 @@
       <h1 class="text-center">Schedule And Budget</h1>
       <br />
 
+      <v-row align="center">
+        <v-col class="text-center" cols="12" sm="12">
+          <div class>
+            <a href="../assets/calendar.zip" download>
+              <v-btn large color="primary">Download Calendar</v-btn>
+            </a>
+          </div>
+          <br />
+          <div class>
+            <a href="../assets/Budget.pdf" download>
+              <v-btn large color="green">Download Budget</v-btn>
+            </a>
+          </div>
+        </v-col>
+      </v-row>
+
+      <br/>
+
       <p>
         The budget has three main aspects. The first focuses on the campus
         ambassador program and allocates money for the purchase and shipment of
