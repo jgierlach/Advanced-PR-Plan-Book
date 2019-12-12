@@ -23,13 +23,19 @@
         </div>
         <br />
         <div class>
-          <a href="https://pdfhost.io/v/3k4SmEF4_Microsoft_Word_FINAL_EXAMdocx.pdf" target="_blank">
+          <a
+            href="https://pdfhost.io/v/3k4SmEF4_Microsoft_Word_FINAL_EXAMdocx.pdf"
+            target="_blank"
+          >
             <v-btn large color="green">Research Paper 1</v-btn>
           </a>
         </div>
         <br />
         <div class>
-          <a href="https://pdfhost.io/v/fA5gex@D_Microsoft_Word_Final_Exam_Advance_PRdocx.pdf" target="_blank">
+          <a
+            href="https://pdfhost.io/v/fA5gex@D_Microsoft_Word_Final_Exam_Advance_PRdocx.pdf"
+            target="_blank"
+          >
             <v-btn large color="green">Research Paper 2</v-btn>
           </a>
         </div>

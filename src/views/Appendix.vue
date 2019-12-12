@@ -61,7 +61,7 @@
 
       <br />
 
-       <v-row align="center">
+      <v-row align="center">
         <v-col class="text-center" cols="12" sm="12">
           <div class>
             <v-btn

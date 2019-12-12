@@ -23,7 +23,7 @@
               >Download Calendar 2</v-btn
             >
           </div>
-          <br/>
+          <br />
           <div class>
             <v-btn
               @click="download('https://i.imgur.com/MhJkeWd.png')"
@@ -32,7 +32,7 @@
               >Download Calendar 3</v-btn
             >
           </div>
-          <br/>
+          <br />
           <div class>
             <v-btn
               @click="download('https://i.imgur.com/U65uSWC.png')"
@@ -41,10 +41,13 @@
               >Download Calendar 4</v-btn
             >
           </div>
-          <br/>
+          <br />
           <div class>
             <!-- <a href="./Budget.pdf" download> -->
-            <v-btn @click="download('https://i.imgur.com/D5V3Ocm.png')" large color="green"
+            <v-btn
+              @click="download('https://i.imgur.com/D5V3Ocm.png')"
+              large
+              color="green"
               >Download Budget</v-btn
             >
             <!-- </a> -->
