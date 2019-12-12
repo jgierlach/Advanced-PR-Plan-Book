@@ -7,16 +7,41 @@
       <v-row align="center">
         <v-col class="text-center" cols="12" sm="12">
           <div class>
-            <!-- <a href="./calendar.zip" download> -->
             <v-btn
-              @click="download('')"
+              @click="download('https://i.imgur.com/GhP2dIY.png')"
               large
               color="primary"
-              >Download Calendar</v-btn
+              >Download Calendar 1</v-btn
             >
-            <!-- </a> -->
           </div>
           <br />
+          <div class>
+            <v-btn
+              @click="download('https://i.imgur.com/gzD8igU.png')"
+              large
+              color="primary"
+              >Download Calendar 2</v-btn
+            >
+          </div>
+          <br/>
+          <div class>
+            <v-btn
+              @click="download('https://i.imgur.com/MhJkeWd.png')"
+              large
+              color="primary"
+              >Download Calendar 3</v-btn
+            >
+          </div>
+          <br/>
+          <div class>
+            <v-btn
+              @click="download('https://i.imgur.com/U65uSWC.png')"
+              large
+              color="primary"
+              >Download Calendar 4</v-btn
+            >
+          </div>
+          <br/>
           <div class>
             <!-- <a href="./Budget.pdf" download> -->
             <v-btn @click="download('https://i.imgur.com/D5V3Ocm.png')" large color="green"
