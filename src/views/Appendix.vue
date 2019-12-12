@@ -61,33 +61,65 @@
 
       <br />
 
-      <v-row align="center" justify="center">
-        <v-img
-          src="../assets/cm-instagram.png"
-          lazy-src="../assets/cm-instagram.png"
-          aspect-ratio="1"
-          class="white"
-          contain
-        ></v-img>
-      </v-row>
-
-      <!-- <br/> -->
-
-      <v-row align="center" justify="center">
-        <v-img
-          src="../assets/cm-instagram-1.png"
-          lazy-src="../assets/cm-instagram-1.png"
-          aspect-ratio="1"
-          class="white"
-          contain
-        ></v-img>
+       <v-row align="center">
+        <v-col class="text-center" cols="12" sm="12">
+          <div class>
+            <v-btn
+              @click="download('https://i.imgur.com/O2Ou3rB.png')"
+              large
+              color="primary"
+              >Download Instagram Grid 1.</v-btn
+            >
+          </div>
+          <br />
+          <div class>
+            <v-btn
+              @click="download('https://i.imgur.com/X8TROFT.png')"
+              large
+              color="green"
+              >Download Instagram Grid 2.</v-btn
+            >
+          </div>
+        </v-col>
       </v-row>
     </div>
   </transition>
 </template>
 
 <script>
-export default {}
+import axios from 'axios'
+
+export default {
+  data() {
+    return {
+      url: ''
+    }
+  },
+  methods: {
+    forceFileDownload(response) {
+      var headers = response.headers
+      // var extension = this.url.substring(this.url.lastIndexOf('.') + 1)
+      var blob = new Blob([response.data], {type: headers['content-type']})
+      var link = document.createElement('a')
+      link.href = window.URL.createObjectURL(blob)
+      link.download = this.url
+      link.click()
+      link.remove()
+    },
+    download(url) {
+      this.url = url
+      axios({
+        method: 'get',
+        url: this.url,
+        responseType: 'blob'
+      })
+        .then(response => {
+          this.forceFileDownload(response)
+        })
+        .catch(() => console.log('error occured'))
+    }
+  }
+}
 </script>
 
 <style></style>
