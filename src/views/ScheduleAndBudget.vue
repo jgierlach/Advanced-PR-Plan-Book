@@ -7,15 +7,22 @@
       <v-row align="center">
         <v-col class="text-center" cols="12" sm="12">
           <div class>
-            <a href="../assets/calendar.zip" download>
-              <v-btn large color="primary">Download Calendar</v-btn>
-            </a>
+            <!-- <a href="./calendar.zip" download> -->
+            <v-btn
+              @click="download('')"
+              large
+              color="primary"
+              >Download Calendar</v-btn
+            >
+            <!-- </a> -->
           </div>
           <br />
           <div class>
-            <a href="../assets/Budget.pdf" download>
-              <v-btn large color="green">Download Budget</v-btn>
-            </a>
+            <!-- <a href="./Budget.pdf" download> -->
+            <v-btn @click="download('https://i.imgur.com/D5V3Ocm.png')" large color="green"
+              >Download Budget</v-btn
+            >
+            <!-- </a> -->
           </div>
         </v-col>
       </v-row>
@@ -60,7 +67,39 @@
 </template>
 
 <script>
-export default {}
+import axios from 'axios'
+
+export default {
+  data() {
+    return {
+      url: ''
+    }
+  },
+  methods: {
+    forceFileDownload(response) {
+      var headers = response.headers
+      // var extension = this.url.substring(this.url.lastIndexOf('.') + 1)
+      var blob = new Blob([response.data], {type: headers['content-type']})
+      var link = document.createElement('a')
+      link.href = window.URL.createObjectURL(blob)
+      link.download = this.url
+      link.click()
+      link.remove()
+    },
+    download(url) {
+      this.url = url
+      axios({
+        method: 'get',
+        url: this.url,
+        responseType: 'blob'
+      })
+        .then(response => {
+          this.forceFileDownload(response)
+        })
+        .catch(() => console.log('error occured'))
+    }
+  }
+}
 </script>
 
 <style></style>
