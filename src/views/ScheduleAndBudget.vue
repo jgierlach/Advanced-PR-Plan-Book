@@ -124,7 +124,7 @@ export default {
         .then(response => {
           this.forceFileDownload(response)
         })
-        .catch(() => console.log('error occured'))
+        .catch(() => 'error')
     }
   }
 }
