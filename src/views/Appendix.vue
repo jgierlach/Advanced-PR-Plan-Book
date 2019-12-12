@@ -59,14 +59,26 @@
         <li>Lack of marketing or outside influence to draw students in</li>
       </ol>
 
-      <br/>
+      <br />
 
-        <v-row align="center" justify="center">
+      <v-row align="center" justify="center">
         <v-img
           src="../assets/cm-instagram.png"
           lazy-src="../assets/cm-instagram.png"
           aspect-ratio="1"
-          class="grey lighten-15"
+          class="white"
+          contain
+        ></v-img>
+      </v-row>
+
+      <!-- <br/> -->
+
+      <v-row align="center" justify="center">
+        <v-img
+          src="../assets/cm-instagram-1.png"
+          lazy-src="../assets/cm-instagram-1.png"
+          aspect-ratio="1"
+          class="white"
           contain
         ></v-img>
       </v-row>

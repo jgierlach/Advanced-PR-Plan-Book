@@ -14,7 +14,7 @@
     <v-row align="center">
       <v-col class="text-center" cols="12" sm="12">
         <div class>
-          <a href="../assets/press-release-1.pdf" download>
+          <a href="https://ecstatic-varahamihira-2996f3.netlify.com/tactical-experience/assets/press-release-1.pdf" download="press-release">
             <v-btn large color="primary">Sample Press Release</v-btn>
           </a>
         </div>
@@ -42,10 +42,7 @@
         </div>
         <br />
         <div class>
-          <a
-            href="../assets/fact-sheet.png"
-            download="fact-sheet"
-          >
+          <a href="../assets/fact-sheet.png" download="fact-sheet">
             <v-btn large color="purple">Fact Sheet</v-btn>
           </a>
         </div>
